@@ -1,5 +1,5 @@
 ## Привет! Добро пожаловать в репозиторий **lyamde-works**!
-![Lyamde-Works Logo](https://github.com/milo-src/lyamde-works/blob/main/images/lyamde-works-logo.png?raw=true | width=630)
+![Lyamde-Works Logo](https://github.com/milo-src/lyamde-works/blob/main/images/lyamde-works-logo.png?raw=true =630x630)
 Здесь мы храним наши мысли, идеи, не реализованные проекты, экспериментальные наработки и всякую прочую штуку, которая так или иначе связана с нашим "творчеством". В этом репозитории вы найдете всё: от набросков игр, модов и концептов до старых документов, которые, возможно, не сыграли своей роли, но не менее ценны для нас.
 
 ### О нас:
